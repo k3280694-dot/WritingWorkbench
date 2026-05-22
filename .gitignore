@@ -1,4 +1,4 @@
-server.log
+﻿server.log
 server.err.log
 *.log
 .DS_Store

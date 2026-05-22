@@ -1,4 +1,4 @@
-# WritingWorkbench
+﻿# WritingWorkbench
 
 长篇写作结构工作台，一个面向网文作者和长篇小说作者的本地写作原型。
 
